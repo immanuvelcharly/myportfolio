@@ -1,0 +1,21 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@1,600&family=Handjet:wght@200;300&family=Inter:wght@200&display=swap');
+
+
+
+
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: black;
+    color: white;
+    
+    
+}
+.nav-item a{
+    color: white;
+}
+.nav-item a:hover{
+    color: red;
+}
